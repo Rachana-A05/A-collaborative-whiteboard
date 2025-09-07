@@ -1,7 +1,7 @@
 #🎨 Collaborative Whiteboard
 
 A Python-based real-time collaborative whiteboard application where multiple users can connect to a shared canvas, draw, erase, fill backgrounds, and see each other’s actions instantly. The system is built using sockets with SSL encryption for secure communication and a Tkinter GUI for an interactive interface.
-
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ✨ Features
 
 👥 Multi-user collaboration – multiple users drawing on the same board in real-time
@@ -19,7 +19,7 @@ A Python-based real-time collaborative whiteboard application where multiple use
 🔒 Secure communication using SSL sockets
 
 🪟 Interactive GUI with Tkinter
-
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 🛠️ Technologies Used
 
 Python 3
