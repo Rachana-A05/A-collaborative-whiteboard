@@ -19,3 +19,15 @@ A Python-based real-time collaborative whiteboard application where multiple use
 🔒 Secure communication using SSL sockets
 
 🪟 Interactive GUI with Tkinter
+
+🛠️ Technologies Used
+
+Python 3
+
+Tkinter – GUI
+
+Sockets + SSL – networking & secure communication
+
+PIL (Pillow) – image handling for backgrounds
+
+JSON – message formatting between clients and server
