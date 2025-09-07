@@ -5,10 +5,17 @@ A Python-based real-time collaborative whiteboard application where multiple use
 ✨ Features
 
 👥 Multi-user collaboration – multiple users drawing on the same board in real-time
+
 ✏ Drawing tools – freehand drawing, adjustable stroke size, color picker
+
 ❌ Eraser tool – erase parts of the drawing with variable size
+
 🖌 Background fill – change the whiteboard background color
+
 ↩ Undo / ↪ Redo – supports action history per user
+
 📡 Server-client architecture – centralized server manages all connected clients
+
 🔒 Secure communication using SSL sockets
+
 🪟 Interactive GUI with Tkinter
