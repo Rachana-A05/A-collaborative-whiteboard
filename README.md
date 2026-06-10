@@ -31,3 +31,8 @@ Sockets + SSL – networking & secure communication
 PIL (Pillow) – image handling for backgrounds
 
 JSON – message formatting between clients and server
+
+**Authors:**  
+Rachana A  
+Priyanka M P
+
